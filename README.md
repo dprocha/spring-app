@@ -33,4 +33,3 @@ export SONAR_TOKEN=fd261384854ec7ec9490298e96bf1cc9daf7ee91
 
 mvn verify sonar:sonar
 ```
-
